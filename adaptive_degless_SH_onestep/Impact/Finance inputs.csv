@@ -1,0 +1,29 @@
+Discount rate,0.0425,fraction
+PV cost,372,$/kWp
+PV O&M,7.45,$/kWp p.a.
+PV cost decrease,10,% p.a.
+Storage cost,150,$/kWh
+Storage O&M,1.5,$/kWh p.a.
+Storage cost decrease,4,% p.a.
+Diesel generator cost,0,$/kW
+Diesel generator cost decrease,0,% p.a.
+Diesel fuel cost,0,$/litre
+Diesel fuel cost decrease,0,% p.a.
+Diesel O&M,0,$/kW p.a.
+BOS cost,200,$/kW
+BOS cost decrease,2,% p.a.
+PV installation cost,100,$/kW
+PV installation cost decrease,0,% p.a.
+Diesel installation cost,0,$/kW
+Diesel installation cost decrease,0,% p.a.
+Connection cost,30,$/household
+Kerosene cost,0,$/hour
+Grid cost,0,$/kWh
+Grid extension cost,0,$/km
+Grid infrastructure cost,0,$
+Inverter cost,200,$/kW
+Inverter cost decrease,2,% p.a.
+Inverter lifetime,4,years
+Inverter size increment,1,kW
+Misc. costs,100,$/kW
+General O&M,500,$ p.a.
