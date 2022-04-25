@@ -1,0 +1,5 @@
+Device,Available,Power,Initial,Final,Innovation,Imitation,Type
+light,Y,6,3,3,0,0,Domestic
+phone,Y,5,1,1,0,0,Domestic
+securitylight,Y,6,1,1,0,0,Domestic
+kerosene,N,1,1,1,0,0,Domestic
